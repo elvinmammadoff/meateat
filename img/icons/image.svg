@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>image [#987]</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="95.8685133%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#048AF3" offset="0%"></stop>
+            <stop stop-color="#6248F0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Extra-large:-Desktops---12-col" transform="translate(-998.000000, -482.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-19-Copy" transform="translate(987.000000, 471.000000)">
+                <g id="Group-18-Copy">
+                    <path d="M25.242,16.469 C25.242,15.917 25.69,15.469 26.242,15.469 C26.794,15.469 27.242,15.917 27.242,16.469 C27.242,17.021 26.794,17.469 26.242,17.469 C25.69,17.469 25.242,17.021 25.242,16.469 L25.242,16.469 Z M29,22 L25.686,18.864 L20.073,24.531 L16.607,21.013 L13,24.525 L13,13 L29,13 L29,22 Z M29,29 L13,29 L13,27.352 L16.578,23.918 L20.035,27.352 L20.061,27.337 L20.082,27.352 L25.596,21.746 L29,25.242 L29,29 Z M11,31 L31,31 L31,11 L11,11 L11,31 Z" id="image-[#987]"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
