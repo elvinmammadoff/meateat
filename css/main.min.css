@@ -532,10 +532,6 @@ figure {
     background: 0 0
 }
 
-.search {
-    margin-left: 100px
-}
-
 .search button {
     background: 0 0
 }
@@ -2974,7 +2970,7 @@ Form--newsletter .Form__input:-moz-placeholder {
     align-items: center;
     width: 50%;
     padding: 0 40px;
-    margin-bottom: 60px
+    margin-bottom: 90px
 }
 
 .Resept-item__image img {
@@ -3859,6 +3855,7 @@ Form--newsletter .Form__input:-moz-placeholder {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
+    column-gap: 30px;
 }
 
 .Navbar-logo {
@@ -4192,6 +4189,10 @@ footer.footer--black {
     color: rgba(64, 64, 65, .8);
 }
 
+.footer__links a:hover {
+    color: #900000;
+}
+
 .footer__contact span {
     display: block;
     font-size: 16px;
@@ -4263,8 +4264,8 @@ footer.footer--black {
 
 .Hero {
     position: relative;
-    height: calc(100dvh - 20%);
-    background: url(../img/hero1.png) no-repeat 120% 0%;
+    height: calc(100dvh - 23%);
+    background: url(../img/hero.png) no-repeat 120% 0%;
     -webkit-background-size: contain;
     background-size: contain;
     width: 100%;
