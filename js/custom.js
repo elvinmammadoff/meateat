@@ -11,13 +11,15 @@
     [ INDEX ]
 	|
     |___ Sticky Header
+    |___ Header Search
     |___ Form Input Focus Materialize Effect
 	|___ Burger Menu 
+	|___ Page Scroll 
 	|___ Pre-Loader
-	|___ ScrollUp
+	|___ Scroll Up
 	|___ Slick Slider
-	|___
-	|___
+	|___ Fancybox
+	|___ Owl Carousel
 	|___
     |
 	[END INDEX ]
@@ -46,12 +48,9 @@
 
 
 
-
-	/* ------------------------------------------------------------------------ */
-
-	/* Header
-
-	/* ------------------------------------------------------------------------ */
+    /* ==========================
+        Header Search
+    =============================*/
 
 	$('#search-btn').click(function(){
 
@@ -67,8 +66,6 @@
 
 	});
 
-
-
 	function closeSearch(){
 
 		$('#search-top').stop(true,true).fadeOut(100);
@@ -79,8 +76,6 @@
 
 	}
 
-	
-
 	$('#close-search-btn').click(function(){
 
 		closeSearch();
@@ -88,8 +83,6 @@
 		return false;
 
 	});
-
-
 
 	$('#search-top input[type=text]').blur(function(e){
 
@@ -101,6 +94,7 @@
     /* ==========================
        Form Input Focus Materialize Effect
     =============================*/
+
 	$('.Form__input').focus(function () {
 		var $field = $(this).closest('.Form__group');
 		$field.addClass('Form__group--focus');		
@@ -118,6 +112,7 @@
     /* ==========================
        Burger Menu 
     =============================*/
+
     // open left menu clicking the left menu icon
     $('.burger-icon--left').on('click', function(event){
         event.preventDefault();
@@ -158,8 +153,10 @@
 	}
 
 
+    /* ==========================
+       Page Scroll
+    =============================*/
 
-        //======= Page Scrolling Start ========
     //jQuery for page scrolling feature - requires jQuery Easing plugin
     $(function () {
         $(document).on('click', 'a.page-scroll', function (event) {
@@ -170,7 +167,6 @@
             event.preventDefault();
         });
     });
-    //======= Page Scrolling End ========
 	
 	
     /* ==========================
@@ -183,7 +179,7 @@
 
 
     /* ==========================
-       ScrollUp
+       Scroll Up
     =============================*/
 	$(document).on( 'scroll', function(){
 		if ($(window).scrollTop() > 100) {
@@ -274,8 +270,11 @@
             }
         ]        
     });   
-     
-    //======= START Fancybox ========
+
+
+    /* ==========================
+       Fancybox
+    =============================*/
     
     jQuery(document).ready(function($) {
         $('.fancybox')
@@ -297,11 +296,13 @@
             closeBtn: true, // you will use the buttons now
             arrows: true
         });  
-    });   
+    });  
+
+
+    /* ==========================
+       Owl Carousel
+    =============================*/ 
     
-    //======= END Fancybox ========
-
-
     $('.slider-img').owlCarousel( {
             autoplay: 5000,
             stopOnHover: true,

@@ -1,4 +1,47 @@
-@charset "UTF-8";
+/* 
+    Template Name: Meateat
+    Template URI: https://meateat.netlify.app/
+    Author: Alissio
+    File Description: Main Css file of the template
+	Version: 1.0.0
+*/
+
+
+/*-----------------------------------------------------------------------------------
+
+    CSS INDEX
+    ===================
+
+    1. - FONTS
+
+    2. - GENERAL
+
+    3. - MENU
+
+    4. - BURGER MENU
+    
+    5. - SCROLL UP
+
+    6. - SLICK SLIDER
+
+    7. - PRODUCT
+
+    8. - RECEPT
+
+    9. - CAROUSEL
+
+    10. - HEADER
+
+    11. - FOOTER
+
+    12. - RESPONSIVE
+
+-----------------------------------------------------------------------------------*/
+
+
+
+/* 1. - FONTS
+-------------------------------------------------- */
 
 @font-face {
     font-family: AvenirNextCyr;
@@ -51,6 +94,9 @@
 }
 
 
+
+/* 2. - GENERAL
+-------------------------------------------------- */
 
 
 body {
@@ -885,7 +931,10 @@ figure {
     margin-left: 60px
 }
 
-/* Style */
+
+
+/* 3. - MENU
+-------------------------------------------------- */
 .Menu {
     display: flex;
     align-self: center;
@@ -1176,19 +1225,19 @@ figure {
     text-overflow: ellipsis
 }
 
-Form--newsletter .Form__input::-webkit-input-placeholder {
+.Form--newsletter .Form__input::-webkit-input-placeholder {
     color: #000
 }
 
-Form--newsletter .Form__input::-moz-placeholder {
+.Form--newsletter .Form__input::-moz-placeholder {
     color: #000
 }
 
-Form--newsletter .Form__input:-ms-input-placeholder {
+.Form--newsletter .Form__input:-ms-input-placeholder {
     color: #000
 }
 
-Form--newsletter .Form__input:-moz-placeholder {
+.Form--newsletter .Form__input:-moz-placeholder {
     color: #000
 }
 
@@ -1410,6 +1459,11 @@ Form--newsletter .Form__input:-moz-placeholder {
     justify-content: space-between
 }
 
+
+
+/* 4. - BURGER MENU
+-------------------------------------------------- */
+
 .cd-nav {
     background-color: #fff;
     padding: 0;
@@ -1558,7 +1612,7 @@ Form--newsletter .Form__input:-moz-placeholder {
 
 .burger-menu-list__link:focus,
 .burger-menu-list__link:hover {
-    color: #23d240
+    color: #900000
 }
 
 .burger-menu__logo {
@@ -1572,6 +1626,11 @@ Form--newsletter .Form__input:-moz-placeholder {
     cursor: pointer;
     margin-left: 0
 }
+
+
+
+/* 5. - SCROLL UP
+-------------------------------------------------- */
 
 .scroll-up {
     position: fixed;
@@ -1609,6 +1668,11 @@ Form--newsletter .Form__input:-moz-placeholder {
     object-fit: cover;
     background: url(../img/icons/angle-up.svg) no-repeat center center
 }
+
+
+
+/* 6. - SLICK SLIDER
+-------------------------------------------------- */
 
 
 .slick-list {
@@ -1907,6 +1971,11 @@ Form--newsletter .Form__input:-moz-placeholder {
     border: none
 }
 
+
+
+/* 7. - PRODUCT
+-------------------------------------------------- */
+
 .Product {
     display: flex;
     flex-direction: column;
@@ -2069,6 +2138,11 @@ Form--newsletter .Form__input:-moz-placeholder {
     margin-top: 20px;
     margin-left: 20px
 }
+
+
+
+/* 8. - RECEPT
+-------------------------------------------------- */
 
 .Resept {
     padding: 0 40px;
@@ -2427,6 +2501,11 @@ Form--newsletter .Form__input:-moz-placeholder {
 .Timeline__content {
     margin-top: 50px
 }
+
+
+
+/* 9. - CAROUSEL
+-------------------------------------------------- */
 
 .carousel__row {
     margin-left: -10px;
@@ -2848,6 +2927,11 @@ Form--newsletter .Form__input:-moz-placeholder {
     color: #23d240
 }
 
+
+
+/* 10. - HEADER
+-------------------------------------------------- */
+
 .Navbar {
     border-bottom: 1px solid rgba(179, 164, 143, .02);
     padding: 14px 0
@@ -3027,6 +3111,11 @@ Form--newsletter .Form__input:-moz-placeholder {
 .Navbar--transparent {
     background-color: transparent
 }
+
+
+
+/* 11. - FOOTER
+-------------------------------------------------- */
 
 .Contact {
     background: #f7f7f7
@@ -3396,7 +3485,10 @@ footer.footer--black {
     display: inline-block
 }
 
-/* Responsive */
+
+
+/* 12. - RESPONSIVE
+-------------------------------------------------- */
 @media (max-width:991.98px) {
     .mt-md-0 {
         margin-top: 0
@@ -3840,6 +3932,10 @@ footer.footer--black {
         margin: 0 0 0 20px
     }
 
+    .Hero__img.aos-animate {
+        left: 65%;
+    }
+
     .carousel--main .carousel-caption {
         left: 12%;
         right: 12%
@@ -4157,6 +4253,15 @@ footer.footer--black {
 @media (max-width:767.98px) {
     .cd-nav__divider {
         background-color: #303030
+    }
+
+    .Hero__img {
+        left: 51%;
+        transform: rotate(90deg) translate3d(0,-51%,0);
+    }
+
+    .Hero__img.aos-animate {
+        left: auto;
     }
 
     .visible-mobile {
