@@ -43,6 +43,59 @@
     $(window).on('scroll', stickyHeader);	
 
     $(document).ready(stickyHeader);
+
+
+
+
+	/* ------------------------------------------------------------------------ */
+
+	/* Header
+
+	/* ------------------------------------------------------------------------ */
+
+	$('#search-btn').click(function(){
+
+		$('#search-top').stop(true,true).fadeIn(100);
+
+		$('#search-top').addClass('search-show');
+
+		$('#logo-navigation, .header-icons-divider').stop().animate({'opacity' : 0}, 100);
+
+		$('#search-top input[type=text]').focus();
+
+		return false;
+
+	});
+
+
+
+	function closeSearch(){
+
+		$('#search-top').stop(true,true).fadeOut(100);
+
+		$('#search-top').removeClass('search-show');
+
+		$('#logo-navigation, .header-icons-divider').stop().animate({'opacity' : 1}, 100);
+
+	}
+
+	
+
+	$('#close-search-btn').click(function(){
+
+		closeSearch();
+
+		return false;
+
+	});
+
+
+
+	$('#search-top input[type=text]').blur(function(e){
+
+		closeSearch();
+
+	}); 
 	
 	
     /* ==========================
