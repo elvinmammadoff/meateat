@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="20px" viewBox="0 0 14 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>pin_sharp_circle [#624]</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="95.8685133%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#048AF3" offset="0%"></stop>
+            <stop stop-color="#6248F0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Extra-large:-Desktops---12-col" transform="translate(-609.000000, -482.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-19" transform="translate(595.000000, 471.000000)">
+                <g id="Group-18-Copy">
+                    <path d="M23,18.219 C23,19.324 22.105,20.219 21,20.219 C19.895,20.219 19,19.324 19,18.219 C19,17.114 19.895,16.219 21,16.219 C22.105,16.219 23,17.114 23,18.219 M21,28 C21,28 16,21 16,18 C16,15.243 18.243,13 21,13 C23.757,13 26,15.243 26,18 C26,21 21,28 21,28 M21,11 C17.134,11 14,14.134 14,18 C14,21.866 21,31 21,31 C21,31 28,21.866 28,18 C28,14.134 24.866,11 21,11" id="pin_sharp_circle-[#624]"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
