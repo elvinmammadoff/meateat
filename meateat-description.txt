@@ -1,0 +1,88 @@
+<div class="user-html user-html__with-lazy-load"><a href="https://meateat.netlify.app/documentation/" rel="nofollow" target="_blank"><img src="https://meateat.netlify.app/src/assets/img/doc.png" alt="Meateat - Online Documentation"></a>
+<h3 id="item-description__meateat-responsive-restaurant-and-cafe-bootstrap-template">Meateat – Responsive Restaurant & Cafe Bootstrap Template</h3>
+<p><strong>Meateat</strong> is an all-in-one package that includes unique style and functionality. It is easy to use, fully responsive and works seamlessly across all devices.<br><br>Choose from a variety of transition effects, control animations and customize everything from colors to fonts to create the perfect slider for your website.<br><br>Get <strong>Meateat</strong> and take your website to the next level.</p>
+
+
+<img src="https://meateat.netlify.app/src/assets/img/rate.png" alt="rate-us">
+
+<h3 id="item-description__why-choose-meateat">Why choose Meateat?</h3>
+<ul>
+<li>
+<strong>Completely Responsive Design</strong>
+<p>Optimized viewing on desktop, tablet and mobile devices.</p>
+</li>
+<li>
+<strong>Easy Customization</strong>
+<p>Customize each slide to meet your unique requirements and preferences.</p>
+</li>
+<li>
+<strong>Beautiful Appearance on Any Device</strong>
+<p>Great user experience on any screen size or resolution.</p>
+</li><li>
+<strong>Advanced Animation Effects</strong>
+<p>Eye-catching transitions between slides.</p>
+</li><li>
+<strong>Built with Bootstrap Framework</strong>
+<p>Ensures stability, compatibility and ease of use.</p>
+</li><li>
+<strong>Cross-Browser Compatibility</strong>
+<p>Seamless functionality on multiple browsers.</p>
+</li><li>
+<strong>Fast Loading Speed</strong>
+<p>Optimized user experience with fast loading times.</p>
+</li><li>
+<strong>User-Friendly Interface</strong>
+<p>Easy to use and navigate.</p>
+</li>
+</ul>
+<h3 id="item-description__other-features">Other Features</h3>
+<ul>
+<li>Based on Bootstrap v4.0</li>
+<li>W3C HTML valid code</li>
+<li>Grid 1770 px</li>
+<li>Better Support (response within 24 hours)</li>
+<li>Free Regular Updates</li>
+<li>Well, Extensive Documentation</li>
+</ul>
+<h3 id="item-description__files-included">Files Included</h3>
+<ul>
+<li>HTML File</li>
+<li>Supporting CSS Files</li>
+<li>Supporting JS Files</li>
+</li>
+<li>Documentation in HTML</li>
+</ul>
+<h3 id="item-description__3rd-party-libraries-used">3rd Party Libraries License</h3>
+<ul>
+<li><a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/" rel="nofollow" target="_blank">Bootstrap 4.0</a> framework is released under the MIT license and is copyright 2023. It permits you to freely download and use Bootstrap, in whole or in part, for personal, private, company internal, or commercial purposes.
+</li>
+</ul>
+<h3 id="item-description__fonts-used">Fonts used:</h3>
+<ul>
+<li><a href="https://fonts.google.com/specimen/Nunito" rel="nofollow" target="_blank">Nunito</a></li>
+</ul>
+<h3 id="item-description__images-license">Images License:</h3><p>Thank you so much to the artists and authors who gave their permission to use their amazing works! <strong>THANK YOU!</strong></p>
+<ul>
+<li>All images used are taken from <a href="https://pixabay.com/" target="_blank">Pixabay</a>. Pixabay is a vibrant community of authors, artists and creators sharing royalty-free images, video, audio and other media.
+</li>
+</ul>
+<h3 id="item-description__documentation">Documentation</h3>
+<a href="https://meateat.netlify.app/documentation/" rel="nofollow" target="_blank">Check the docs here</a>
+<h3 id="item-description__sources-and-credits">Sources and Credits</h3>
+<p><strong>Any media — Images and used in the preview are not included in the project you download. Images are only for demo purposes. Used images are replaced with placeholders. But included a documentation file for full instruction.</strong></p><h3 id="item-description__thank-you">Thank you:</h3><p>Thank you so much for using this template. Your comments and ratings would be much appreciated. Please don’t forget RATE for us.</p><p>If you purchase this template, you will get support. We will update this template time by time and we want to hear your wishes for the future updates or for complete new templates.
+</p><p>We are grateful to you.
+</p><p><strong>– Alissio –</strong></p>
+
+<h3 id="item-description__change-log">Change Log:</h3>
+<p>V. 1.0.0 – 23.03.2024</p>
+<pre>- Initial release</pre>
+<p>If you love our product, Don’t forget to rate it 5 stars</p>
+<p>
+<img src="https://meateat.netlify.app/src/assets/img/star.png" alt="star">
+<img src="https://meateat.netlify.app/src/assets/img/star.png" alt="star">
+<img src="https://meateat.netlify.app/src/assets/img/star.png" alt="star">
+<img src="https://meateat.netlify.app/src/assets/img/star.png" alt="star">
+<img src="https://meateat.netlify.app/src/assets/img/star.png" alt="star"> 
+and let us know your feedback for a better update. Thank you
+<img src="https://meateat.netlify.app/src/assets/img/smile.png" alt="happy">
+</div>
